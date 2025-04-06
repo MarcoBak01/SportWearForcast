@@ -1,2 +1,4 @@
 requests
 pprint
+flake8
+dotenv
